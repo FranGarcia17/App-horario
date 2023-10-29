@@ -41,7 +41,7 @@ class App extends Component {
       {
         id: 5,
         clave: "IFD-1023",
-        materia: "Taller de emprenderores",
+        materia: "Taller de emprendedores",
         hora: "14:00-15:00",
         grupo: "F8B",
       },
