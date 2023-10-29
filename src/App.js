@@ -62,7 +62,7 @@ class App extends Component {
       {
         id: 8,
         clave: "IFF-1016",
-        materia: "Inteligencias de negocios",
+        materia: "Inteligencia de negocios",
         hora: "17:00-18:00",
         grupo: "F8B",
       },
