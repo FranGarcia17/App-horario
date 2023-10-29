@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/App-horario/static/css/main.b18c1238.css",
-    "main.js": "/App-horario/static/js/main.e8a6be39.js",
+    "main.js": "/App-horario/static/js/main.54ce888b.js",
     "static/js/787.091582b9.chunk.js": "/App-horario/static/js/787.091582b9.chunk.js",
     "index.html": "/App-horario/index.html",
     "main.b18c1238.css.map": "/App-horario/static/css/main.b18c1238.css.map",
-    "main.e8a6be39.js.map": "/App-horario/static/js/main.e8a6be39.js.map",
+    "main.54ce888b.js.map": "/App-horario/static/js/main.54ce888b.js.map",
     "787.091582b9.chunk.js.map": "/App-horario/static/js/787.091582b9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b18c1238.css",
-    "static/js/main.e8a6be39.js"
+    "static/js/main.54ce888b.js"
   ]
 }
